@@ -1,0 +1,31 @@
+{
+  "name": "real-time-web-with-socket",
+  "version": "1.0.0",
+  "description": "From 9Linkedin Course)[https://www.linkedin.com/learning/node-js-real-time-web-with-socket-io]",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=production npm start ./index.js",
+    "dev": "NODE_ENV=development nodemon ./index.js --exec babel-node -e js",
+    "test": "DEBUG=* NODE_ENV=test nodemon ./index.js --exec babel-node -e js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingChewie/real-time-web-with-socket.git"
+  },
+  "keywords": [],
+  "author": "codingChewie",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "nodemon": "^1.19.2"
+  },
+  "bugs": {
+    "url": "https://github.com/codingChewie/real-time-web-with-socket/issues"
+  },
+  "homepage": "https://github.com/codingChewie/real-time-web-with-socket#readme"
+}
