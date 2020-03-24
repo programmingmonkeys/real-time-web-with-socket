@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codingChewie/real-time-web-with-socket.git"
+    "url": "git+https://github.com/programmingmonkeys/real-time-web-with-socket.git"
   },
   "keywords": [],
   "author": "codingChewie",
@@ -25,7 +25,7 @@
     "nodemon": "^1.19.2"
   },
   "bugs": {
-    "url": "https://github.com/codingChewie/real-time-web-with-socket/issues"
+    "url": "https://github.com/programmingmonkeys/real-time-web-with-socket/issues"
   },
-  "homepage": "https://github.com/codingChewie/real-time-web-with-socket#readme"
+  "homepage": "https://github.com/programmingmonkeys/real-time-web-with-socket#readme"
 }
