@@ -16,7 +16,7 @@
   "author": "codingChewie",
   "dependencies": {
     "express": "^4.16.2",
-    "socket.io": "^2.0.3"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
